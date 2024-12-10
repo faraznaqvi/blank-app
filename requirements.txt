@@ -1,1 +1,7 @@
-streamlit
+streamlit==1.25.0
+requests==2.31.0
+beautifulsoup4==4.13.0
+scikit-learn==1.2.2
+nltk==3.8.1
+boto3==1.28.50
+langchain==0.0.294
